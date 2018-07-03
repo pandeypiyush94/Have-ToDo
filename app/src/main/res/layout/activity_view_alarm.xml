@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/black"
+    tools:context="com.piyush.havetodo.ViewAlarmActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="?attr/actionBarSize"
+        android:textColor="@color/white_icons"
+        android:fontFamily="sans-serif-light"
+        android:textStyle="bold"
+        android:textSize="24sp"
+        android:layout_alignParentTop="true"
+        android:id="@+id/todoTxt"
+        android:text="I Have To Make This App"/>
+
+    <TextView
+        android:id="@+id/todoDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/todoTxt"
+        android:layout_marginTop="12dp"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/white_icons"
+        android:text="Sep 07, 1994 16:20"
+        android:fontFamily="sans-serif-light"
+        android:textSize="20sp"/>
+
+    <com.skyfishjy.library.RippleBackground
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:id="@+id/rippleBg"
+        app:rb_color="@color/white_icons"
+        app:rb_radius="32dp"
+        app:rb_rippleAmount="4"
+        app:rb_duration="3000"
+        app:rb_scale="6">
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/alarmFab"
+        android:src="@drawable/icon_alarm"
+        android:layout_height="wrap_content"
+        app:fabSize="normal"
+        android:layout_centerInParent="true"
+        app:backgroundTint="@color/white_icons"
+        android:layout_width="wrap_content" />
+    </com.skyfishjy.library.RippleBackground>
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/alarmSnoozeFab"
+        android:src="@drawable/icon_snooze"
+        android:layout_height="wrap_content"
+        app:fabSize="normal"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="32dp"
+        app:backgroundTint="@color/white_icons"
+        android:layout_width="wrap_content" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/alarmOffFab"
+        android:src="@drawable/icon_alarmoff"
+        android:layout_height="wrap_content"
+        app:fabSize="normal"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_margin="32dp"
+        app:backgroundTint="@color/white_icons"
+        android:layout_width="wrap_content"
+        tools:ignore="RelativeOverlap" />
+</RelativeLayout>

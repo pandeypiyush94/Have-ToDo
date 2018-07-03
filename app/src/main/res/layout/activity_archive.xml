@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/container_archive"
+    tools:context="com.piyush.havetodo.ArchiveActivity">
+
+    <android.support.v7.widget.Toolbar xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        tools:ignore="MissingPrefix"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/toolbar_archive"
+        android:minHeight="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
+    <LinearLayout
+        android:layout_below="@+id/toolbar_archive"
+        android:id="@+id/toDoEmptyView_archive"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:ignore="UseCompoundDrawables">
+        <ImageView
+            android:src="@drawable/icon_logo_png"
+            android:layout_marginStart="8dp"
+            android:layout_width="96dp"
+            android:layout_height="96dp"
+            tools:ignore="ContentDescription" />
+        <TextView
+            android:text="@string/no_archive"
+            android:textColor="@color/secondary_text"
+            android:textSize="16sp"
+            android:paddingTop="4dp"
+            android:paddingBottom="8dp"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+    <com.piyush.havetodo.RecyclerViewWithEmptyViewSupport
+        android:layout_below="@+id/toolbar_archive"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        android:id="@+id/toDoRecyclerView_archive"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+
+</RelativeLayout>

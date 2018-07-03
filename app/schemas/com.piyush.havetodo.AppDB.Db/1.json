@@ -1,0 +1,63 @@
+{
+  "formatVersion": 1,
+  "database": {
+    "version": 1,
+    "identityHash": "f3d35217126a3e690eba44d35446b714",
+    "entities": [
+      {
+        "tableName": "ToDo",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`toDoId` TEXT NOT NULL, `toDoColor` INTEGER NOT NULL, `toDoDate` INTEGER, `toDoTxt` TEXT, `moveToArchive` INTEGER NOT NULL, `hasToDoReminder` INTEGER NOT NULL, PRIMARY KEY(`toDoId`))",
+        "fields": [
+          {
+            "fieldPath": "toDoId",
+            "columnName": "toDoId",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "toDoColor",
+            "columnName": "toDoColor",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "toDoDate",
+            "columnName": "toDoDate",
+            "affinity": "INTEGER",
+            "notNull": false
+          },
+          {
+            "fieldPath": "toDoTxt",
+            "columnName": "toDoTxt",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "moveToArchive",
+            "columnName": "moveToArchive",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "hasToDoReminder",
+            "columnName": "hasToDoReminder",
+            "affinity": "INTEGER",
+            "notNull": true
+          }
+        ],
+        "primaryKey": {
+          "columnNames": [
+            "toDoId"
+          ],
+          "autoGenerate": false
+        },
+        "indices": [],
+        "foreignKeys": []
+      }
+    ],
+    "setupQueries": [
+      "CREATE TABLE IF NOT EXISTS room_master_table (id INTEGER PRIMARY KEY,identity_hash TEXT)",
+      "INSERT OR REPLACE INTO room_master_table (id,identity_hash) VALUES(42, \"f3d35217126a3e690eba44d35446b714\")"
+    ]
+  }
+}

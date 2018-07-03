@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Work\\Projects\\MineApps\\HaveToDo\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-ne-rNP\\values-ne-rNP.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Piyush\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-1.5.1.aar\\8539885dd556ffa423efa299fd5dbfc7\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "265,372,483,569,678,798,909,1009,1105,1203,1297",
+                        "endColumns": "106,110,85,108,119,110,99,95,97,93,96",
+                        "endOffsets": "367,478,564,673,793,904,1004,1100,1198,1292,1389"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,212,323,409,518,638,749,849,945,1043,1137",
+                        "endColumns": "106,110,85,108,119,110,99,95,97,93,96",
+                        "endOffsets": "207,318,404,513,633,744,844,940,1038,1132,1229"
+                    }
+                }
+            ]
+        }
+    ]
+}

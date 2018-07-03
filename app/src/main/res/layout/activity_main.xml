@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/parentLayout"
+    tools:context="com.piyush.havetodo.MainActivity">
+
+        <android.support.design.widget.AppBarLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/appbar"
+            app:elevation="4dp">
+            <include layout="@layout/base_toolbar"/>
+        </android.support.design.widget.AppBarLayout>
+        <LinearLayout
+            android:layout_below="@+id/appbar"
+            android:id="@+id/toDoEmptyView"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:ignore="UseCompoundDrawables">
+
+        <ImageView
+            android:src="@drawable/icon_logo_png"
+            android:layout_marginStart="8dp"
+            android:layout_width="96dp"
+            android:layout_height="96dp"
+            tools:ignore="ContentDescription" />
+        <TextView
+            android:text="@string/no_to_dos"
+            android:textColor="@color/secondary_text"
+            android:textSize="16sp"
+            android:paddingTop="4dp"
+            android:paddingBottom="8dp"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+        <com.piyush.havetodo.RecyclerViewWithEmptyViewSupport
+            android:layout_below="@+id/appbar"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior"
+            android:id="@+id/toDoRecyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+    <android.support.design.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/coordinator">
+        <android.support.design.widget.FloatingActionButton
+            android:src="@drawable/ic_add_white_24dp"
+            android:id="@+id/addToDoItemFAB"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:layout_gravity="bottom|end"
+            app:layout_behavior="com.piyush.havetodo.ScrollingFABBehaviour" />
+    </android.support.design.widget.CoordinatorLayout>
+</RelativeLayout>

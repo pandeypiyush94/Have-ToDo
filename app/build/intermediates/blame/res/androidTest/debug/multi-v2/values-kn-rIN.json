@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Work\\Projects\\MineApps\\HaveToDo\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-kn-rIN\\values-kn-rIN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Piyush\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-1.5.1.aar\\8539885dd556ffa423efa299fd5dbfc7\\res\\values-kn-rIN\\values-kn-rIN.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "265,372,487,570,682,808,923,1029,1126,1226,1321",
+                        "endColumns": "106,114,82,111,125,114,105,96,99,94,98",
+                        "endOffsets": "367,482,565,677,803,918,1024,1121,1221,1316,1415"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,212,327,410,522,648,763,869,966,1066,1161",
+                        "endColumns": "106,114,82,111,125,114,105,96,99,94,98",
+                        "endOffsets": "207,322,405,517,643,758,864,961,1061,1156,1255"
+                    }
+                }
+            ]
+        }
+    ]
+}

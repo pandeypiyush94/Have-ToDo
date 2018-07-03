@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piyush\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\374e29ddde7e5b9e8bfbd5a5a7ea23e0\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="E:\Work\Projects\MineApps\HaveToDo\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piyush\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\cd6feb8df0a9e54ae1073b37cf9d25d6\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="73b7c0cc2de04ff7eb3979d7f48f2a667fce88ca">
+        <dex dex="E:\Work\Projects\MineApps\HaveToDo\app\build\intermediates\transforms\preDex\release\34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piyush\.gradle\caches\transforms-1\files-1.1\library-1.0.1.aar\33501e21b9b747a13f4172161aed991f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5a7cf2a41aedccc427107ebb37762a5e2f5be590">
+        <dex dex="E:\Work\Projects\MineApps\HaveToDo\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piyush\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\b6535c155025613c554364e6295c0e29\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="E:\Work\Projects\MineApps\HaveToDo\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piyush\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\5dffefcf94aa9d24c8a95360d00205bc\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="E:\Work\Projects\MineApps\HaveToDo\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piyush\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.3\7d7f60c4783872861222166f6164215f8951c7b1\common-1.0.3.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="E:\Work\Projects\MineApps\HaveToDo\app\build\intermediates\transforms\preDex\release\31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piyush\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\aa4e93a7716a974d3710c652d1d2ffb3\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="E:\Work\Projects\MineApps\HaveToDo\app\build\intermediates\transforms\preDex\release\23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\org\jetbrains\annotations\13.0\annotations-13.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="E:\Work\Projects\MineApps\HaveToDo\app\build\intermediates\transforms\preDex\release\39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\org\jetbrains\kotlin\kotlin-stdlib-jre7\1.1.51\kotlin-stdlib-jre7-1.1.51.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8b5933578dc55f32cfc1a25f1db6371e4161fb8f">
+        <dex dex="E:\Work\Projects\MineApps\HaveToDo\app\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piyush\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="E:\Work\Projects\MineApps\HaveToDo\app\build\intermediates\transforms\preDex\release\35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piyush\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\Work\Projects\MineApps\HaveToDo\app\build\intermediates\transforms\preDex\release\36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piyush\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\Work\Projects\MineApps\HaveToDo\app\build\intermediates\transforms\preDex\release\38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piyush\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\2bf13f96a76c8626a2887ca8f16bca60\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="E:\Work\Projects\MineApps\HaveToDo\app\build\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piyush\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\e7452c00f56e548678fe8087847f35e3\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7acfe82f9818960690816133001218c52e840175">
+        <dex dex="E:\Work\Projects\MineApps\HaveToDo\app\build\intermediates\transforms\preDex\release\24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piyush\.gradle\caches\transforms-1\files-1.1\Squint-3.0.1.aar\fbca91c6443c39f6c308413230ae5c98\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d9c8ebe41a1781fab5e06ea4f73e1802aa831ef4">
+        <dex dex="E:\Work\Projects\MineApps\HaveToDo\app\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\org\jetbrains\kotlin\kotlin-stdlib\1.1.51\kotlin-stdlib-1.1.51.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e34fe80c9714240525f665113dd3749415515655">
+        <dex dex="E:\Work\Projects\MineApps\HaveToDo\app\build\intermediates\transforms\preDex\release\37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piyush\.gradle\caches\modules-2\files-2.1\android.arch.persistence.room\common\1.0.0\1cbd3ddc566125293b13af5c0a65bc015476e83c\common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1cbd3ddc566125293b13af5c0a65bc015476e83c">
+        <dex dex="E:\Work\Projects\MineApps\HaveToDo\app\build\intermediates\transforms\preDex\release\32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piyush\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\48a6c2cd02652739a89ffeff0681e786\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="E:\Work\Projects\MineApps\HaveToDo\app\build\intermediates\transforms\preDex\release\29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piyush\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\316313f751a30a3236e47442eceee101\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Work\Projects\MineApps\HaveToDo\app\build\intermediates\transforms\preDex\release\21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piyush\.gradle\caches\transforms-1\files-1.1\com.amulyakhare.textdrawable-1.0.1.aar\cc9c9488541ad8c10c9fc6ca1fb08fcc\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d237556caead5b93d97e18a071059a2c0045978e">
+        <dex dex="E:\Work\Projects\MineApps\HaveToDo\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piyush\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\b94cc3c7fb55bb62866cf8c040ddb98d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0c96ff1484cdde9a52af9f23f9e0d1de70dd5076">
+        <dex dex="E:\Work\Projects\MineApps\HaveToDo\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piyush\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\8b036418a25cc66dd13fed9778743308\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="E:\Work\Projects\MineApps\HaveToDo\app\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piyush\.gradle\caches\transforms-1\files-1.1\FancyAboutPage-Android-2.6.aar\55c0abd042088096bce35b9ecdb40c4f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c32a8253deee0269dba509d25488602890c9571f">
+        <dex dex="E:\Work\Projects\MineApps\HaveToDo\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piyush\.gradle\caches\transforms-1\files-1.1\circularimageview-3.0.2.aar\fa55d680751393a633c9c28eb85f7a8c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a8340f8c17337c864648c13abe1416d34c80ec14">
+        <dex dex="E:\Work\Projects\MineApps\HaveToDo\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piyush\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\afbefae3ea1152c31bf6acdc41c9cf16\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="E:\Work\Projects\MineApps\HaveToDo\app\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piyush\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6c4c56153281a090aaf794bc80080d83\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\Work\Projects\MineApps\HaveToDo\app\build\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piyush\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\258b12c1c5896f58b5c2d8b686358040\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8d24e1c59cbee887714f11121366282a2fe00251">
+        <dex dex="E:\Work\Projects\MineApps\HaveToDo\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piyush\.gradle\caches\transforms-1\files-1.1\materialdatetimepicker-1.5.1.aar\8539885dd556ffa423efa299fd5dbfc7\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f3c15dd877bfdfbbd71f0d2f4c5139b52fd04735">
+        <dex dex="E:\Work\Projects\MineApps\HaveToDo\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piyush\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\96f84b8b5288f0043f169bafc2b6d3be\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="E:\Work\Projects\MineApps\HaveToDo\app\build\intermediates\transforms\preDex\release\27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piyush\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\da5029fa8c9fe70601abeaba66f73c7b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="E:\Work\Projects\MineApps\HaveToDo\app\build\intermediates\transforms\preDex\release\26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piyush\.gradle\caches\transforms-1\files-1.1\material-spinner-1.1.0.aar\945ff8a183dc7131551467f435f5d01e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a973f67796996adb991bd6e63a11b2b88a571219">
+        <dex dex="E:\Work\Projects\MineApps\HaveToDo\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piyush\.gradle\caches\transforms-1\files-1.1\calligraphy-2.1.0.aar\65dda6cab1caff3f41e11b81410732b1\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e653e15e62e8a59ddd76cc7f827bf8bce38ae7bb">
+        <dex dex="E:\Work\Projects\MineApps\HaveToDo\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piyush\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\02a581d611ebf392eff4a3e3c2faeb4b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="E:\Work\Projects\MineApps\HaveToDo\app\build\intermediates\transforms\preDex\release\22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piyush\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\dcc2a9fd5c096c8dfa2ea7dd43973904\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="E:\Work\Projects\MineApps\HaveToDo\app\build\intermediates\transforms\preDex\release\25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piyush\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\2dcab51c0cc20f919d6f41f7974e1dc0\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e44c59a2b380c1c304413901f8dd34245b64ab40">
+        <dex dex="E:\Work\Projects\MineApps\HaveToDo\app\build\intermediates\transforms\preDex\release\33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piyush\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="E:\Work\Projects\MineApps\HaveToDo\app\build\intermediates\transforms\preDex\release\30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piyush\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\54141685b789ef4c61a2a5a62c5a1814\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="E:\Work\Projects\MineApps\HaveToDo\app\build\intermediates\transforms\preDex\release\28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piyush\.gradle\caches\transforms-1\files-1.1\taptargetview-1.11.0.aar\7707dbdff437050604aeda3e618ea56e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7f6b3eace9cc0d8ad79f6d0018532d4d402873bd">
+        <dex dex="E:\Work\Projects\MineApps\HaveToDo\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+
+</items>

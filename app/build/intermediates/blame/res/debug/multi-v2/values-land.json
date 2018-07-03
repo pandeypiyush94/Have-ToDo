@@ -1,0 +1,55 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\1. Work\\Projects\\Mine Projects\\HaveToDo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Piyush Ku Pandey\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\06d8fddcb01f007560dcd0b162aa6d97\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Piyush Ku Pandey\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\1b275d64bb41c9b824781eb61e3299e8\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "615",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "792"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Piyush Ku Pandey\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-1.5.1.aar\\960357ff95c63f50f7fadd49cf99d4cb\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "212,264,318,378,439",
+                        "endColumns": "51,53,59,60,59",
+                        "endOffsets": "259,313,373,434,494"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "328,380,434,494,555",
+                        "endColumns": "51,53,59,60,59",
+                        "endOffsets": "375,429,489,550,610"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,298 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:2:1-53:12
+MERGED from [uk.co.chrisjenx:calligraphy:2.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\calligraphy-2.1.0.aar\4f72c1d5e075a451b90694d746de1e9f\AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.ganfra:material-spinner:1.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\material-spinner-1.1.0.aar\d301e1ed6584b8243b0089d0aad759a5\AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\1b275d64bb41c9b824781eb61e3299e8\AndroidManifest.xml:17:1-31:12
+MERGED from [com.github.Shashank02051997:FancyAboutPage-Android:2.6] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\FancyAboutPage-Android-2.6.aar\d0962566a2b2950d6024d372df3aaa0b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.getkeepsafe.taptargetview:taptargetview:1.11.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\taptargetview-1.11.0.aar\b451a3e2d325559706dead98a50f63c4\AndroidManifest.xml:2:1-8:12
+MERGED from [com.github.IntruderShanky:Squint:3.0.1] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\Squint-3.0.1.aar\23c7f5d78d9a4c97604b0cdb8e416669\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\06d8fddcb01f007560dcd0b162aa6d97\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\5c778010808104bb379291c827db3dfb\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\f983932c462b37db38670d203bd057d0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.wdullaer:materialdatetimepicker:1.5.1] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\materialdatetimepicker-1.5.1.aar\960357ff95c63f50f7fadd49cf99d4cb\AndroidManifest.xml:17:1-30:12
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\com.amulyakhare.textdrawable-1.0.1.aar\c266167ebb32d6d908dd5795fab70359\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\9fb3d3f7d8d9bd615f00f1f45decff05\AndroidManifest.xml:17:1-28:12
+MERGED from [com.mikhaellopez:circularimageview:3.0.2] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\circularimageview-3.0.2.aar\a2dcc0ebcc00848449993c2740e10443\AndroidManifest.xml:2:1-15:12
+MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\library-1.0.1.aar\54125fd6b514abde5e73fcc8ac22f09f\AndroidManifest.xml:2:1-13:12
+MERGED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\3af3dd110475468e18f28af21982b9e5\AndroidManifest.xml:17:1-32:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\84eeb348fc69051cc0f655efd5582337\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\65887f21e76e334a90425cb1539cff88\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\e4a580165283ce6432b7d8e10f9c714e\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\b97898c5cd8a8d782afd539e1ea74517\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\c7d44a4f8ef40f15ddc1c7b1b1509ce9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\568405de3ae2167d59bb99d266255d81\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.core:runtime:1.0.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c6a7aa54d7e7b6fd23cc80cacd17fdf4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\24353fe07742f7ac7fb5bc15975618b9\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\de5461473ef3eab28c21bdf56fd25ee8\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f905135e12c389f9f7133a96336268d6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\713cb2ff08bc0d6e46b7ace85a06bab2\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\26867c31d826ba3af05a22e911d4cf6f\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\62e3271ed872922c2ae3513cd766ad23\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\d5b2ce2f33c0caba226935d0064ad8a6\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:2:1-53:12
+	package
+		ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml
+		ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:2:1-53:12
+		INJECTED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml
+		ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:2:1-53:12
+		INJECTED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.VIBRATE
+ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:5:5-66
+MERGED from [com.wdullaer:materialdatetimepicker:1.5.1] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\materialdatetimepicker-1.5.1.aar\960357ff95c63f50f7fadd49cf99d4cb\AndroidManifest.xml:26:5-66
+MERGED from [com.wdullaer:materialdatetimepicker:1.5.1] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\materialdatetimepicker-1.5.1.aar\960357ff95c63f50f7fadd49cf99d4cb\AndroidManifest.xml:26:5-66
+	android:name
+		ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:5:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:6:22-65
+application
+ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:8:5-51:19
+MERGED from [uk.co.chrisjenx:calligraphy:2.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\calligraphy-2.1.0.aar\4f72c1d5e075a451b90694d746de1e9f\AndroidManifest.xml:11:5-20
+MERGED from [uk.co.chrisjenx:calligraphy:2.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\calligraphy-2.1.0.aar\4f72c1d5e075a451b90694d746de1e9f\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\1b275d64bb41c9b824781eb61e3299e8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\1b275d64bb41c9b824781eb61e3299e8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.github.IntruderShanky:Squint:3.0.1] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\Squint-3.0.1.aar\23c7f5d78d9a4c97604b0cdb8e416669\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.IntruderShanky:Squint:3.0.1] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\Squint-3.0.1.aar\23c7f5d78d9a4c97604b0cdb8e416669\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\06d8fddcb01f007560dcd0b162aa6d97\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\06d8fddcb01f007560dcd0b162aa6d97\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\5c778010808104bb379291c827db3dfb\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\5c778010808104bb379291c827db3dfb\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\f983932c462b37db38670d203bd057d0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\f983932c462b37db38670d203bd057d0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.wdullaer:materialdatetimepicker:1.5.1] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\materialdatetimepicker-1.5.1.aar\960357ff95c63f50f7fadd49cf99d4cb\AndroidManifest.xml:28:5-20
+MERGED from [com.wdullaer:materialdatetimepicker:1.5.1] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\materialdatetimepicker-1.5.1.aar\960357ff95c63f50f7fadd49cf99d4cb\AndroidManifest.xml:28:5-20
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\com.amulyakhare.textdrawable-1.0.1.aar\c266167ebb32d6d908dd5795fab70359\AndroidManifest.xml:12:5-20
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\com.amulyakhare.textdrawable-1.0.1.aar\c266167ebb32d6d908dd5795fab70359\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\9fb3d3f7d8d9bd615f00f1f45decff05\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\9fb3d3f7d8d9bd615f00f1f45decff05\AndroidManifest.xml:22:5-26:19
+MERGED from [com.mikhaellopez:circularimageview:3.0.2] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\circularimageview-3.0.2.aar\a2dcc0ebcc00848449993c2740e10443\AndroidManifest.xml:11:5-13:38
+MERGED from [com.mikhaellopez:circularimageview:3.0.2] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\circularimageview-3.0.2.aar\a2dcc0ebcc00848449993c2740e10443\AndroidManifest.xml:11:5-13:38
+MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\library-1.0.1.aar\54125fd6b514abde5e73fcc8ac22f09f\AndroidManifest.xml:11:5-20
+MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\library-1.0.1.aar\54125fd6b514abde5e73fcc8ac22f09f\AndroidManifest.xml:11:5-20
+MERGED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\3af3dd110475468e18f28af21982b9e5\AndroidManifest.xml:24:5-30:19
+MERGED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\3af3dd110475468e18f28af21982b9e5\AndroidManifest.xml:24:5-30:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\65887f21e76e334a90425cb1539cff88\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\65887f21e76e334a90425cb1539cff88\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\e4a580165283ce6432b7d8e10f9c714e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\e4a580165283ce6432b7d8e10f9c714e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\b97898c5cd8a8d782afd539e1ea74517\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\b97898c5cd8a8d782afd539e1ea74517\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\c7d44a4f8ef40f15ddc1c7b1b1509ce9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\c7d44a4f8ef40f15ddc1c7b1b1509ce9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\568405de3ae2167d59bb99d266255d81\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\568405de3ae2167d59bb99d266255d81\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\24353fe07742f7ac7fb5bc15975618b9\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\24353fe07742f7ac7fb5bc15975618b9\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\de5461473ef3eab28c21bdf56fd25ee8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\de5461473ef3eab28c21bdf56fd25ee8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f905135e12c389f9f7133a96336268d6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f905135e12c389f9f7133a96336268d6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\713cb2ff08bc0d6e46b7ace85a06bab2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\713cb2ff08bc0d6e46b7ace85a06bab2\AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:12:9-41
+	xmlns:tools
+		ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:11:9-55
+	android:roundIcon
+		ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:13:9-51
+	android:icon
+		ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:10:9-40
+	android:allowBackup
+		ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.piyush.havetodo.MainActivity
+ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:16:9-26:20
+	android:screenOrientation
+		ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:20:13-49
+	android:label
+		ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:18:13-45
+	android:launchMode
+		ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:19:13-43
+	android:name
+		ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.piyush.havetodo.SettingsActivity
+ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:27:9-29:52
+	android:screenOrientation
+		ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:29:13-49
+	android:name
+		ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:28:13-45
+activity#com.piyush.havetodo.AboutActivity
+ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:30:9-33:50
+	android:screenOrientation
+		ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:32:13-49
+	android:theme
+		ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:33:13-47
+	android:name
+		ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:31:13-42
+activity#com.piyush.havetodo.AddActivity
+ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:34:9-37:63
+	android:screenOrientation
+		ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:36:13-49
+	android:windowSoftInputMode
+		ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:37:13-60
+	android:name
+		ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:35:13-40
+service#com.piyush.havetodo.NotifyService
+ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:39:9-50
+	android:name
+		ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:39:18-47
+activity#com.piyush.havetodo.ViewAlarmActivity
+ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:41:9-44:66
+	android:screenOrientation
+		ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:43:13-49
+	android:theme
+		ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:44:13-63
+	android:name
+		ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:42:13-46
+receiver#com.piyush.havetodo.AlarmReceiver
+ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:46:9-51
+	android:name
+		ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:46:19-48
+activity#com.piyush.havetodo.ArchiveActivity
+ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:49:9-50:51
+	android:screenOrientation
+		ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:50:13-49
+	android:name
+		ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml:49:19-50
+uses-sdk
+INJECTED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml
+INJECTED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml
+MERGED from [uk.co.chrisjenx:calligraphy:2.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\calligraphy-2.1.0.aar\4f72c1d5e075a451b90694d746de1e9f\AndroidManifest.xml:7:5-9:41
+MERGED from [uk.co.chrisjenx:calligraphy:2.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\calligraphy-2.1.0.aar\4f72c1d5e075a451b90694d746de1e9f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.ganfra:material-spinner:1.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\material-spinner-1.1.0.aar\d301e1ed6584b8243b0089d0aad759a5\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.ganfra:material-spinner:1.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\material-spinner-1.1.0.aar\d301e1ed6584b8243b0089d0aad759a5\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:design:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\1b275d64bb41c9b824781eb61e3299e8\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\1b275d64bb41c9b824781eb61e3299e8\AndroidManifest.xml:21:5-23:62
+MERGED from [com.github.Shashank02051997:FancyAboutPage-Android:2.6] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\FancyAboutPage-Android-2.6.aar\d0962566a2b2950d6024d372df3aaa0b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.Shashank02051997:FancyAboutPage-Android:2.6] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\FancyAboutPage-Android-2.6.aar\d0962566a2b2950d6024d372df3aaa0b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.getkeepsafe.taptargetview:taptargetview:1.11.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\taptargetview-1.11.0.aar\b451a3e2d325559706dead98a50f63c4\AndroidManifest.xml:6:5-44
+MERGED from [com.getkeepsafe.taptargetview:taptargetview:1.11.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\taptargetview-1.11.0.aar\b451a3e2d325559706dead98a50f63c4\AndroidManifest.xml:6:5-44
+MERGED from [com.github.IntruderShanky:Squint:3.0.1] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\Squint-3.0.1.aar\23c7f5d78d9a4c97604b0cdb8e416669\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.IntruderShanky:Squint:3.0.1] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\Squint-3.0.1.aar\23c7f5d78d9a4c97604b0cdb8e416669\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\06d8fddcb01f007560dcd0b162aa6d97\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\06d8fddcb01f007560dcd0b162aa6d97\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\5c778010808104bb379291c827db3dfb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\5c778010808104bb379291c827db3dfb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\f983932c462b37db38670d203bd057d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\f983932c462b37db38670d203bd057d0\AndroidManifest.xml:20:5-44
+MERGED from [com.wdullaer:materialdatetimepicker:1.5.1] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\materialdatetimepicker-1.5.1.aar\960357ff95c63f50f7fadd49cf99d4cb\AndroidManifest.xml:22:5-24:41
+MERGED from [com.wdullaer:materialdatetimepicker:1.5.1] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\materialdatetimepicker-1.5.1.aar\960357ff95c63f50f7fadd49cf99d4cb\AndroidManifest.xml:22:5-24:41
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\com.amulyakhare.textdrawable-1.0.1.aar\c266167ebb32d6d908dd5795fab70359\AndroidManifest.xml:8:5-10:41
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\com.amulyakhare.textdrawable-1.0.1.aar\c266167ebb32d6d908dd5795fab70359\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\9fb3d3f7d8d9bd615f00f1f45decff05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\9fb3d3f7d8d9bd615f00f1f45decff05\AndroidManifest.xml:20:5-44
+MERGED from [com.mikhaellopez:circularimageview:3.0.2] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\circularimageview-3.0.2.aar\a2dcc0ebcc00848449993c2740e10443\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikhaellopez:circularimageview:3.0.2] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\circularimageview-3.0.2.aar\a2dcc0ebcc00848449993c2740e10443\AndroidManifest.xml:7:5-9:41
+MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\library-1.0.1.aar\54125fd6b514abde5e73fcc8ac22f09f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\library-1.0.1.aar\54125fd6b514abde5e73fcc8ac22f09f\AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\3af3dd110475468e18f28af21982b9e5\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\3af3dd110475468e18f28af21982b9e5\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\84eeb348fc69051cc0f655efd5582337\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\84eeb348fc69051cc0f655efd5582337\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\65887f21e76e334a90425cb1539cff88\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\65887f21e76e334a90425cb1539cff88\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\e4a580165283ce6432b7d8e10f9c714e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\e4a580165283ce6432b7d8e10f9c714e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\b97898c5cd8a8d782afd539e1ea74517\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\b97898c5cd8a8d782afd539e1ea74517\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\c7d44a4f8ef40f15ddc1c7b1b1509ce9\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\c7d44a4f8ef40f15ddc1c7b1b1509ce9\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\568405de3ae2167d59bb99d266255d81\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\568405de3ae2167d59bb99d266255d81\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.core:runtime:1.0.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c6a7aa54d7e7b6fd23cc80cacd17fdf4\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.core:runtime:1.0.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c6a7aa54d7e7b6fd23cc80cacd17fdf4\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\24353fe07742f7ac7fb5bc15975618b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\24353fe07742f7ac7fb5bc15975618b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\de5461473ef3eab28c21bdf56fd25ee8\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\de5461473ef3eab28c21bdf56fd25ee8\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f905135e12c389f9f7133a96336268d6\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f905135e12c389f9f7133a96336268d6\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\713cb2ff08bc0d6e46b7ace85a06bab2\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\713cb2ff08bc0d6e46b7ace85a06bab2\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\26867c31d826ba3af05a22e911d4cf6f\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\26867c31d826ba3af05a22e911d4cf6f\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\62e3271ed872922c2ae3513cd766ad23\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\62e3271ed872922c2ae3513cd766ad23\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\d5b2ce2f33c0caba226935d0064ad8a6\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\d5b2ce2f33c0caba226935d0064ad8a6\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml
+INJECTED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\1b275d64bb41c9b824781eb61e3299e8\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml
+		ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml
+		ADDED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\1. Work\Projects\Mine Projects\HaveToDo\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\1b275d64bb41c9b824781eb61e3299e8\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\06d8fddcb01f007560dcd0b162aa6d97\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\06d8fddcb01f007560dcd0b162aa6d97\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\f983932c462b37db38670d203bd057d0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\f983932c462b37db38670d203bd057d0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\9fb3d3f7d8d9bd615f00f1f45decff05\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\9fb3d3f7d8d9bd615f00f1f45decff05\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\65887f21e76e334a90425cb1539cff88\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\65887f21e76e334a90425cb1539cff88\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\e4a580165283ce6432b7d8e10f9c714e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\e4a580165283ce6432b7d8e10f9c714e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\b97898c5cd8a8d782afd539e1ea74517\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\b97898c5cd8a8d782afd539e1ea74517\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\c7d44a4f8ef40f15ddc1c7b1b1509ce9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\c7d44a4f8ef40f15ddc1c7b1b1509ce9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\568405de3ae2167d59bb99d266255d81\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\568405de3ae2167d59bb99d266255d81\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\24353fe07742f7ac7fb5bc15975618b9\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\24353fe07742f7ac7fb5bc15975618b9\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\de5461473ef3eab28c21bdf56fd25ee8\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\de5461473ef3eab28c21bdf56fd25ee8\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f905135e12c389f9f7133a96336268d6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f905135e12c389f9f7133a96336268d6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\713cb2ff08bc0d6e46b7ace85a06bab2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\713cb2ff08bc0d6e46b7ace85a06bab2\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\1b275d64bb41c9b824781eb61e3299e8\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\1b275d64bb41c9b824781eb61e3299e8\AndroidManifest.xml:27:13-51
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\3af3dd110475468e18f28af21982b9e5\AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\3af3dd110475468e18f28af21982b9e5\AndroidManifest.xml:27:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\3af3dd110475468e18f28af21982b9e5\AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\3af3dd110475468e18f28af21982b9e5\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\Piyush Ku Pandey\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\3af3dd110475468e18f28af21982b9e5\AndroidManifest.xml:26:13-83

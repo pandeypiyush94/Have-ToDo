@@ -1,0 +1,4 @@
+#Mon Apr 30 18:28:10 IST 2018
+base.0=E\:\\Work\\Projects\\MineApps\\HaveToDo\\app\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

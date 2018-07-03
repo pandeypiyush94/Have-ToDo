@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\1. Work\\Projects\\Mine Projects\\HaveToDo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-lo-rLA\\values-lo-rLA.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Piyush Ku Pandey\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-1.5.1.aar\\960357ff95c63f50f7fadd49cf99d4cb\\res\\values-lo-rLA\\values-lo-rLA.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "265,364,479,559,662,785,887,980,1071,1160,1244",
+                        "endColumns": "98,114,79,102,122,101,92,90,88,83,95",
+                        "endOffsets": "359,474,554,657,780,882,975,1066,1155,1239,1335"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,204,319,399,502,625,727,820,911,1000,1084",
+                        "endColumns": "98,114,79,102,122,101,92,90,88,83,95",
+                        "endOffsets": "199,314,394,497,620,722,815,906,995,1079,1175"
+                    }
+                }
+            ]
+        }
+    ]
+}

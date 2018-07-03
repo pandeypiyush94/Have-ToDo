@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <CheckBoxPreference android:id="@+id/themeSettings"
+        android:title="@string/dark_mode"
+        android:summaryOn="@string/dark_mode_on_summary"
+        android:summaryOff="@string/dark_mode_off_summary"
+        android:defaultValue="false"
+        android:key="@string/dark_mode_pref_key"/>
+    <CheckBoxPreference android:id="@+id/vibrationSettings"
+        android:title="@string/vibration"
+        android:summary="@string/vibration_summary"
+        android:defaultValue="true"
+        android:key="@string/vibration_pref_key"/>
+
+</PreferenceScreen>
