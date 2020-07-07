@@ -110,8 +110,9 @@ public class MainActivity extends AppCompatActivity {
                     }
                 });
 
-        if (!appPref.isWalkThroughed())
+        if (!appPref.isWalkThroughed()) {
             targetSequence.start();
+        }
 
                     /*-------------Set View's Click Listeners--------------*/
         fab.setOnClickListener(new View.OnClickListener() {
